@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="ExploreWithoutLimits" src="./github/preview.png" width="100%" height="300px">
+  <img alt="ExploreWithoutLimits" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Technologies
