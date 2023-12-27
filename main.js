@@ -15,7 +15,7 @@ console.log(`A soma de: ${sum1} + ${sum2} = ${sum}`)
   Se for, exiba a mensagem "É um número", caso contrário, exiba a mensagem "Não é um número".
 */
 
-let number = "alsdfjsadjkl"
+let number = "um texto"
 let isANumber = typeof(number)
 if(isANumber === "number"){
   console.log(`${number} é um número`)
