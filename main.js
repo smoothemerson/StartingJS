@@ -44,7 +44,7 @@ if(isAString === "string"){
 let boolean = true
 let isBoolean = typeof(boolean)
 if(isBoolean === "boolean"){
-  console.log(`"${boolean}" é um booleano`)
+  console.log(`${boolean} é um booleano`)
 } else {
   console.log(`"${boolean}" não é booleano`)
 }
