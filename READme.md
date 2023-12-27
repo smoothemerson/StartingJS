@@ -13,14 +13,14 @@
 <br>
 
 <p align="center">
-  <img alt="ExploreWithoutLimits" src="./github/preview.png" width="100%">
+  <img alt="ExploreWithoutLimits" src="./github/preview.png" width="100%" height="300px">
 </p>
 
 ## 🚀 Technologies
 
 This project was developed with the following technologies:
 
-- HTML and CSS
+- HTML
 - Javascript
 - Git and GitHub
 
