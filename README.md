@@ -23,4 +23,4 @@ This project was developed with the following technologies:
 
 - [Access the finished project, online](https://smoothemerson.github.io/StartingJS/)
 
-- Project given by Rocketseat to get started with Javascript
+- Project given by Rocketseat in Intensive of the Explorer Course
