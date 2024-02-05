@@ -3,7 +3,6 @@
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -29,7 +28,3 @@ This project was developed with the following technologies:
 - [Access the finished project, online](https://aoba43.github.io/Intensivao4_exercise2/)
 
 - Project given by Rocketseat to get started with Javascript
-
-## :memo: License
-
-This project is under the MIT license.
